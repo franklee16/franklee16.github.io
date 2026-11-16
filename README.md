@@ -18,9 +18,9 @@ A comprehensive collection of Claude Code skills covering the full research pipe
 
 The ones people use most.
 
-🧠 [**academic-research-skills**](https://github.com/franklee16/academic-research-skills) (<!--stars:academic-research-skills-->234<!--/stars--> stars) - Claude Code skills for academic research in economics, finance, and social sciences
+🧠 [**academic-research-skills**](https://github.com/franklee16/academic-research-skills) (<!--stars:academic-research-skills-->236<!--/stars--> stars) - Claude Code skills for academic research in economics, finance, and social sciences
 
-🏛️ [**hbs-case-writer**](https://github.com/franklee16/hbs-case-writer) (<!--stars:hbs-case-writer-->22<!--/stars--> stars) - Harvard Business School-style teaching cases on financial market events
+🏛️ [**hbs-case-writer**](https://github.com/franklee16/hbs-case-writer) (<!--stars:hbs-case-writer-->24<!--/stars--> stars) - Harvard Business School-style teaching cases on financial market events
 
 📈 [**real-time-market-case**](https://github.com/franklee16/real-time-market-case) (<!--stars:real-time-market-case-->15<!--/stars--> stars) - Generate a 5-slide Beamer "Today's Market Case" deck connecting recent financial news to the week's course topic
 
@@ -44,7 +44,7 @@ Tools for the academic pipeline — review, revision, dissemination, data.
 
 Courses and classroom tools for finance education.
 
-🏛️ [**hbs-case-writer**](https://github.com/franklee16/hbs-case-writer) (<!--stars:hbs-case-writer-->22<!--/stars--> stars) - HBS-style teaching cases on financial market events
+🏛️ [**hbs-case-writer**](https://github.com/franklee16/hbs-case-writer) (<!--stars:hbs-case-writer-->24<!--/stars--> stars) - HBS-style teaching cases on financial market events
 
 📈 [**real-time-market-case**](https://github.com/franklee16/real-time-market-case) (<!--stars:real-time-market-case-->15<!--/stars--> stars) - "Today's Market Case" decks from recent financial news
 
